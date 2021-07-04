@@ -44,6 +44,9 @@ h3,h2{
 	
 }
 
+.blockquote-footer{
+	text-align:center;
+}
 .logo{
 	height: 60px;
     width: 100px;
